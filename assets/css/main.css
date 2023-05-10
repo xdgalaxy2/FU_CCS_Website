@@ -133,7 +133,7 @@ body {
 .main-button-red a {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: #ab1f24;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -230,7 +230,7 @@ header
 .header-area .main-nav .logo {
   line-height: 100px;
   color: #fff;
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -867,7 +867,7 @@ section.upcoming-Events .categories ul li a {
 }
 
 section.upcoming-Events .categories ul li a:hover {
-  color: #a12c2f;
+  color: #ab1f24;
 }
 
 section.upcoming-Events .categories .main-button-red {
@@ -927,7 +927,7 @@ section.upcoming-Events .categories .main-button-red a {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color: #ab1f24;
 }
 
 .Event-item .down-content .date span {
@@ -1080,7 +1080,7 @@ section.our-courses {
 }
 
 .our-courses .item .down-content .info span {
-  color: #a12c2f;
+  color: #ab1f24;
   font-size: 15px;
   font-weight: 600;
   text-align: right;
@@ -1320,7 +1320,7 @@ section.contact-us #contact textarea {
 section.contact-us #contact button {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: #ab1f24;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1336,7 +1336,7 @@ section.contact-us #contact button:hover {
 }
 
 section.contact-us .right-info {
-  background-color: #a12c2f;
+  background-color: #ab1f24;
   border-radius: 20px;
   padding: 40px;
 }
@@ -1381,7 +1381,7 @@ section.contact-us .right-info ul li span {
 }
 
 .footer p a {
-  color: #f5a425;
+  color: #AB1F24;
 }
 
 
@@ -1444,7 +1444,7 @@ section.Events-page .filters {
 
 section.Events-page .filters li {
   font-size: 13px;
-  color: #a12c2f;
+  color: #ab1f24;
   background-color: #fff;
   padding: 11px 30px;
   display: inline-block;
@@ -1458,7 +1458,7 @@ section.Events-page .filters li {
 
 section.Events-page .filters ul li.active,
 section.Events-page .filters ul li:hover {
-  background-color: #a12c2f;
+  background-color: #ab1f24;
   color: #fff;
 }
 
@@ -1499,7 +1499,7 @@ section.Events-page .main-button-red a {
 
 section.Events-page .pagination ul li.active a,
 section.Events-page .pagination ul li a:hover {
-  background-color: #a12c2f;
+  background-color: #ab1f24;
   color: #fff;
 }
 
@@ -1550,7 +1550,7 @@ section.Events-page .pagination ul li a:hover {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color: #ab1f24;
 }
 
 .Event-single-item .thumb .date span {
