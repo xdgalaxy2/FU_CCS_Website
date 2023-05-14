@@ -944,7 +944,7 @@ enroll now
 */
 
 section.enroll-now {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(../images/enroll-bg.jpg);
+  background-image: linear-gradient(rgba(31,39,43,0.75), rgba(31,39,43,0.75)), url(../images/enroll-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
