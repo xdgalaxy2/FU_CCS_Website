@@ -146,22 +146,6 @@ body {
   opacity: 0.9;
 }
 
-.main-button-yellow a {
-  font-size: 13px;
-  color: #fff;
-  background-color: #f5a425;
-  padding: 12px 30px;
-  display: inline-block;
-  border-radius: 22px;
-  font-weight: 500;
-  text-transform: uppercase;
-  transition: all .3s;
-}
-
-.main-button-yellow a:hover {
-  opacity: 0.9;
-}
-
 .section-heading h2 {
   line-height: 40px;
   margin-top: 0px;
@@ -960,7 +944,7 @@ enroll now
 */
 
 section.enroll-now {
-  background-image: url(../images/enroll-bg.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(../images/enroll-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
