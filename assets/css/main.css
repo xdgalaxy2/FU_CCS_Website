@@ -1176,7 +1176,7 @@ our facts
 */
 
 section.our-facts {
-  background-image: url(../images/facts-bg.jpg);
+  background-image: linear-gradient(rgba(31,39,43,0.75), rgba(31,39,43,0.75)), url(../images/facts-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1219,14 +1219,10 @@ section.our-facts h2 {
     letter-spacing: 0.5px;
 }
 
-.new-students {
-  margin-top: 45px;
-}
 
 section.our-facts .video {
   text-align: center;
   margin-left: 70px;
-  background-image: url(../images/video-item-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1237,6 +1233,7 @@ section.our-facts .video img {
   padding: 170px 0px;
   max-width: 56px;
 }
+
 
 
 /* 
