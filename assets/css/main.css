@@ -184,7 +184,7 @@ header
 
 
 .background-header {
-  background-color: #fff!important;
+  background-color: #ab1f24!important;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -194,12 +194,12 @@ header
 }
 
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #ffffff!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #ffffff!important;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -407,7 +407,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #ffffff;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -422,12 +422,12 @@ header
   width: 30px;
   height: 2px;
   left: 0;
-  width: 75%;
+  width: 100%;
 }
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #ffffff;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -468,11 +468,11 @@ header
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
   transform: translateY(6px) translateX(1px) rotate(45deg);
-  background-color: #1e1e1e;
+  background-color: #ffffff; 
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
-  background-color: #1e1e1e;
+  background-color: #ffffff;/***********************************************************Burger Menu Color (White)*******************************************************************************/
 }
 
 .header-area .main-nav .menu-trigger.active span:after {
@@ -480,11 +480,11 @@ header
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #1e1e1e;
+  background-color: #ffffff;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #1e1e1e;
+  background-color: #ffffff;/***********************************************************Burger Menu Color (White)*******************************************************************************/
 }
 
 .header-area.header-sticky {
