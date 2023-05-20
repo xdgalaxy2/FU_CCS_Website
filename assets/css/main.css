@@ -1349,21 +1349,42 @@ section.contact-us .right-info ul li span {
   font-weight: 700;
 }
 
-.footer {
-  text-align: center;
-  margin-top: 140px;
-  border-top: 1px solid rgba(250,250,250,0.15);
-  padding: 50px 0px;
-}
-.footer p {
+/*
+---------------------------------------------
+footer 
+---------------------------------------------
+*/
+
+.footer-top p {
   text-transform: uppercase;
   font-size: 14px;
   color: #fff;
 }
 
-.footer p a {
+.footer-top p a {
   color: #AB1F24;
 }
+
+.footer-top { padding: 60px 0; background: #272727; text-align: left; color: #fff; margin-top: 140px; border-top: 1px solid rgba(250,250,250,0.15); }
+.footer-top h3 { padding-bottom: 10px; color: #fff; }
+
+.footer-about img.logo-footer { max-width: 74px; margin-top: 0; margin-bottom: 18px; }
+.footer-about p a { border: 0; }
+.footer-about p a:hover, .footer-about p a:focus { border: 0; }
+
+.footer-contact p { word-wrap: break-word; }
+.footer-contact i { padding-right: 10px; font-size: 14px; color: #666; }
+.footer-contact p a { border: 0; }
+.footer-contact p a:hover, .footer-contact p a:focus { border: 0; }
+
+.footer-ourteam a { color: #aaa; border: 0; }
+.footer-ourteam a:hover, .footer-ourteam a:focus { color: #fff; }
+
+.footer-bottom { padding: 15px 0 17px 0; background: #444; text-align: left; color: #fff; }
+
+.footer-copyright { padding-top: 5px; }
+.footer-copyright a { color: #fff; border: 0; }
+.footer-copyright a:hover, .footer-copyright a:focus { color: #fff; border: 0; }
 
 
 /*
