@@ -1382,7 +1382,7 @@ footer
 
 .footer-bottom { padding: 15px 0 17px 0; background: #181818; text-align: left; color: #fff; }
 
-.footer-copyright { padding-top: 5px; }
+.footer-copyright { padding-top: 5px; text-align: center; }
 .footer-copyright a { color: #fff; border: 0; }
 .footer-copyright a:hover, .footer-copyright a:focus { color: #fff; border: 0; }
 
