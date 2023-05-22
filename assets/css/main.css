@@ -1377,6 +1377,7 @@ footer
 .footer-contact p a { border: 0; }
 .footer-contact p a:hover, .footer-contact p a:focus { border: 0; }
 
+.footer-ourteam { padding-left:160px; }
 .footer-ourteam a { color: #aaa; border: 0; }
 .footer-ourteam a:hover, .footer-ourteam a:focus { color: #fff; }
 
