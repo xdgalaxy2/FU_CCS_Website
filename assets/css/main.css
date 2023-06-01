@@ -1426,6 +1426,618 @@ section.heading-page h2 {
 }
 
 
+/* 
+---------------------------------------------
+Tour body
+--------------------------------------------- 
+*/
+.tour-body-bg-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.tour-body-bg-tour-body {
+  width: 100%;
+  height: 2476px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tour-body-bg-ccs-office {
+  top: 148px;
+  left: 0px;
+  right: 0px;
+  width: 1464px;
+  height: 397px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: flex-start;
+}
+.tour-body-bg-text {
+  font-size: 14px;
+  color: #999;
+  right: 0px;
+  width: 629px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tour-body-bg-text1 {
+  top: 0px;
+  left: 830px;
+  color: rgba(255, 255, 255, 1);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 12px;
+  font-stretch: normal;
+  padding-left: 30px;
+  border-radius: 22px;
+  padding-right: 30px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  background-color: #ab1f24;
+}
+.tour-body-bg-unsplashz--so6bn-z-tw {
+  width: 709px;
+  height: 397px;
+  border-radius: 10px;
+}
+.tour-body-bg-cisco-lab {
+  top: 748px;
+  left: 0px;
+  right: 0px;
+  width: 1464px;
+  height: 397px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: flex-end;
+}
+.tour-body-bg-text2 {
+  font-size: 14px;
+  color: #999;
+  left: 0px;
+  width: 629px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tour-body-bg-text3 {
+  top: 0px;
+  left: 378px;
+  color: rgb(255, 255, 255);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 12px;
+  font-stretch: normal;
+  padding-left: 30px;
+  border-radius: 22px;
+  padding-right: 30px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  background-color: rgb(171, 31, 36);
+}
+.tour-body-bg-unsplashz--so6bn-z-tw1 {
+  width: 709px;
+  height: 397px;
+  border-radius: 10px;
+}
+.tour-body-bg-it-lab {
+  top: 1348px;
+  left: 0px;
+  right: 0px;
+  width: 1464px;
+  height: 397px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: flex-start;
+}
+.tour-body-bg-text4 {
+  font-size: 14px;
+  color: #999;;
+  right: 0px;
+  width: 629px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tour-body-bg-text5 {
+  top: 0px;
+  left: 830px;
+  color: rgb(255, 255, 255);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 12px;
+  font-stretch: normal;
+  padding-left: 30px;
+  border-radius: 22px;
+  padding-right: 30px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  background-color: rgb(171, 31, 36);
+}
+.tour-body-bg-unsplashz--so6bn-z-tw2 {
+  width: 709px;
+  height: 397px;
+  border-radius: 10px;
+}
+.tour-body-bg-linux-lab {
+  top: 1948px;
+  left: 0px;
+  right: 0px;
+  width: 1464px;
+  height: 397px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: flex-end;
+}
+.tour-body-bg-text6 {
+  font-size: 14px;
+  color: #999;
+  left: 0px;
+  width: 629px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tour-body-bg-text8 {
+  top: 0px;
+  left: 378px;
+  color: rgb(255, 255, 255);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 12px;
+  font-stretch: normal;
+  padding-left: 30px;
+  border-radius: 22px;
+  padding-right: 30px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  background-color: rgb(171, 31, 36);
+}
+.tour-body-bg-unsplashz--so6bn-z-tw3 {
+  width: 709px;
+  height: 397px;
+  border-radius: 10px;
+}
+@media(max-width: 1200px) {
+  .tour-body-bg-ccs-office {
+    width: 1117px;
+  }
+  .tour-body-bg-text1 {
+    top: 1px;
+    left: 479px;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw {
+    width: 455px;
+  }
+  .tour-body-bg-cisco-lab {
+    width: 1113px;
+  }
+  .tour-body-bg-text3 {
+    top: 4px;
+    left: 390px;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw1 {
+    width: 455px;
+  }
+  .tour-body-bg-it-lab {
+    width: 1113px;
+  }
+  .tour-body-bg-text5 {
+    top: 0px;
+    left: 482px;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw2 {
+    width: 455px;
+  }
+  .tour-body-bg-linux-lab {
+    width: 1113px;
+  }
+  .tour-body-bg-text8 {
+    top: -2px;
+    left: 384px;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw3 {
+    width: 455px;
+  }
+}
+@media(max-width: 991px) {
+  .tour-body-bg-tour-body {
+    height: 3527px;
+    justify-content: center;
+  }
+  .tour-body-bg-ccs-office {
+    top: 85px;
+    left: 0px;
+    right: 0px;
+    width: 991px;
+    height: 759px;
+    margin: auto;
+    justify-content: center;
+  }
+  .tour-body-bg-text {
+    left: 0px;
+    right: 0px;
+    bottom: 12px;
+    margin: auto;
+    text-align: justify;
+  }
+  .tour-body-bg-text1 {
+    top: 410px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    width: 630px;
+    margin: auto;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background-color: rgb(171, 31, 36);
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 625px;
+    margin: auto;
+    position: absolute;
+    align-self: flex-start;
+  }
+  .tour-body-bg-cisco-lab {
+    top: 950px;
+    left: 0px;
+    right: 0px;
+    width: 979px;
+    height: 749px;
+    margin: auto;
+    padding-bottom: var(--dl-space-space-twounits);
+    justify-content: center;
+  }
+  .tour-body-bg-text2 {
+    left: 0px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    bottom: -1px;
+    margin: auto;
+    font-size: 25px;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .tour-body-bg-text3 {
+    top: 411px;
+    left: 0px;
+    right: 0px;
+    width: 630px;
+    margin: auto;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 625px;
+    margin: auto;
+    position: absolute;
+    align-self: flex-start;
+  }
+  .tour-body-bg-it-lab {
+    top: 1820px;
+    left: 0px;
+    right: 0px;
+    width: 991px;
+    height: 756px;
+    margin: auto;
+    justify-content: center;
+  }
+  .tour-body-bg-text4 {
+    left: 0px;
+    right: 0px;
+    bottom: 5px;
+    margin: auto;
+  }
+  .tour-body-bg-text5 {
+    top: 410px;
+    left: 0px;
+    right: 0px;
+    width: 630px;
+    margin: auto;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw2 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 625px;
+    margin: auto;
+    position: absolute;
+    align-self: flex-start;
+  }
+  .tour-body-bg-linux-lab {
+    top: 2700px;
+    right: 0px;
+    width: 991px;
+    height: 743px;
+    margin: auto;
+    justify-content: center;
+  }
+  .tour-body-bg-text6 {
+    left: 0px;
+    right: 0px;
+    bottom: -2px;
+    margin: auto;
+    text-align: justify;
+  }
+  .tour-body-bg-text8 {
+    top: 404px;
+    left: 0px;
+    right: 0px;
+    width: 630px;
+    margin: auto;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw3 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 625px;
+    margin: auto;
+    position: absolute;
+    align-self: flex-start;
+  }
+}
+@media(max-width: 767px) {
+  .tour-body-bg-tour-body {
+    justify-content: center;
+  }
+  .tour-body-bg-ccs-office {
+    width: 767px;
+    justify-content: center;
+  }
+  .tour-body-bg-cisco-lab {
+    width: 767px;
+    justify-content: center;
+  }
+  .tour-body-bg-it-lab {
+    width: 767px;
+    justify-content: center;
+  }
+  .tour-body-bg-linux-lab {
+    width: 767px;
+    justify-content: center;
+  }
+}
+@media(max-width: 479px) {
+  .tour-body-bg-tour-body {
+    height: 3930px;
+    justify-content: center;
+  }
+  .tour-body-bg-ccs-office {
+    left: 0px;
+    right: 0px;
+    width: 479px;
+    height: 911px;
+    margin: auto;
+    justify-content: center;
+  }
+  .tour-body-bg-text {
+    color: rgb(0, 0, 0);
+    width: 460px;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .tour-body-bg-text1 {
+    width: 460px;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw {
+    width: 460px;
+  }
+  .tour-body-bg-cisco-lab {
+    top: 1050px;
+    left: 0px;
+    right: 0px;
+    width: 479px;
+    height: 906px;
+    margin: auto;
+    padding: var(--dl-space-space-halfunit);
+    justify-content: center;
+  }
+  .tour-body-bg-text2 {
+    color: rgb(0, 0, 0);
+    right: 2px;
+    width: 460px;
+    bottom: 0px;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .tour-body-bg-text3 {
+    top: 413px;
+    left: 7px;
+    color: rgb(255, 255, 255);
+    width: 460px;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background-color: rgb(171, 31, 36);
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 460px;
+    margin: auto;
+    position: absolute;
+  }
+  .tour-body-bg-it-lab {
+    top: 2020px;
+    left: 0px;
+    right: 0px;
+    width: 479px;
+    height: 928px;
+    margin: auto;
+    justify-content: center;
+  }
+  .tour-body-bg-text4 {
+    left: 0px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    width: 460px;
+    bottom: 41px;
+    margin: auto;
+    font-size: 25px;
+    text-align: justify;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .tour-body-bg-text5 {
+    top: 412px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    width: 460px;
+    margin: auto;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background-color: rgb(171, 31, 36);
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw2 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 460px;
+    margin: auto;
+  }
+  .tour-body-bg-linux-lab {
+    top: 2970px;
+    left: 0px;
+    right: 0px;
+    width: 479px;
+    height: 945px;
+    margin: auto;
+    justify-content: center;
+  }
+  .tour-body-bg-text6 {
+    left: 0px;
+    right: 0px;
+    width: 460px;
+    bottom: 54px;
+    margin: auto;
+  }
+  .tour-body-bg-text8 {
+    top: 418px;
+    left: 0px;
+    right: 0px;
+    width: 460px;
+    margin: auto;
+    position: absolute;
+  }
+  .tour-body-bg-unsplashz--so6bn-z-tw3 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 460px;
+    margin: auto;
+  }
+}
+
+
+
+
+
+
+
 /*
 ---------------------------------------------
 upcoming tour page
