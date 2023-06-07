@@ -1360,7 +1360,7 @@ heading page
 */
 
 section.heading-page {
-  background-image: url(../images/heading-bg.jpg);
+  background-image: linear-gradient(rgba(31,39,43,0.75), rgba(31,39,43,0.75)), url(../images/it_stairs.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1373,7 +1373,7 @@ section.heading-page h6 {
   margin-top: 0px;
   font-size: 15px;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 300;
   color: #fff;
   letter-spacing: 1px;
 }
@@ -1463,7 +1463,7 @@ Tour body
   text-decoration: none;
   background-color: #ab1f24;
 }
-.tour-body-bg-unsplashz--so6bn-z-tw {
+.ccs_office {
   width: 709px;
   height: 397px;
   border-radius: 10px;
@@ -1519,7 +1519,7 @@ Tour body
   text-decoration: none;
   background-color: rgb(171, 31, 36);
 }
-.tour-body-bg-unsplashz--so6bn-z-tw1 {
+.cisco_lab {
   width: 709px;
   height: 397px;
   border-radius: 10px;
@@ -1575,7 +1575,7 @@ Tour body
   text-decoration: none;
   background-color: rgb(171, 31, 36);
 }
-.tour-body-bg-unsplashz--so6bn-z-tw2 {
+.it_lab {
   width: 709px;
   height: 397px;
   border-radius: 10px;
@@ -1631,7 +1631,7 @@ Tour body
   text-decoration: none;
   background-color: rgb(171, 31, 36);
 }
-.tour-body-bg-unsplashz--so6bn-z-tw3 {
+.linux_lab {
   width: 709px;
   height: 397px;
   border-radius: 10px;
@@ -1644,7 +1644,7 @@ Tour body
     top: 1px;
     left: 479px;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw {
+  .ccs_office {
     width: 455px;
   }
   .tour-body-bg-cisco-lab {
@@ -1654,7 +1654,7 @@ Tour body
     top: 4px;
     left: 390px;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw1 {
+  .cisco_lab {
     width: 455px;
   }
   .tour-body-bg-it-lab {
@@ -1664,7 +1664,7 @@ Tour body
     top: 0px;
     left: 482px;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw2 {
+  .it_lab {
     width: 455px;
   }
   .tour-body-bg-linux-lab {
@@ -1674,7 +1674,7 @@ Tour body
     top: -2px;
     left: 384px;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw3 {
+  .linux_lab {
     width: 455px;
   }
 }
@@ -1713,7 +1713,7 @@ Tour body
     text-decoration: none;
     background-color: rgb(171, 31, 36);
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw {
+  .ccs_office {
     top: 0px;
     left: 0px;
     right: 0px;
@@ -1752,7 +1752,7 @@ Tour body
     width: 630px;
     margin: auto;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw1 {
+  .cisco_lab {
     top: 0px;
     left: 0px;
     right: 0px;
@@ -1783,7 +1783,7 @@ Tour body
     width: 630px;
     margin: auto;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw2 {
+  .it_lab {
     top: 0px;
     left: 0px;
     right: 0px;
@@ -1814,7 +1814,7 @@ Tour body
     width: 630px;
     margin: auto;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw3 {
+  .linux_lab {
     top: 0px;
     left: 0px;
     right: 0px;
@@ -1870,7 +1870,7 @@ Tour body
   .tour-body-bg-text1 {
     width: 460px;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw {
+  .ccs_office {
     width: 460px;
   }
   .tour-body-bg-cisco-lab {
@@ -1906,7 +1906,7 @@ Tour body
     text-decoration: none;
     background-color: rgb(171, 31, 36);
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw1 {
+  .cisco_lab {
     top: 0px;
     left: 0px;
     right: 0px;
@@ -1951,7 +1951,7 @@ Tour body
     text-decoration: none;
     background-color: rgb(171, 31, 36);
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw2 {
+  .it_lab {
     top: 0px;
     left: 0px;
     right: 0px;
@@ -1982,7 +1982,7 @@ Tour body
     margin: auto;
     position: absolute;
   }
-  .tour-body-bg-unsplashz--so6bn-z-tw3 {
+  .linux_lab {
     top: 0px;
     left: 0px;
     right: 0px;
