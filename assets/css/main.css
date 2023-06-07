@@ -878,21 +878,6 @@ section.upcoming-tour .categories .main-button-red a {
   border-top-left-radius: 20px;
 }
 
-.tour-item .thumb .price {
-  position: absolute;
-  left: 20px;
-  top: 20px;
-}
-
-.tour-item .thumb .price span {
-  font-size: 16px;
-  color: #1f272b;
-  font-weight: 600;
-  background-color: rgba(250,250,250,0.9);
-  padding: 7px 12px;
-  border-radius: 10px;
-}
-
 .tour-item .down-content {
   background-color: #fff;
   padding: 30px;
@@ -2123,21 +2108,6 @@ section.tour-page .pagination ul li a:hover {
 .tour-single-item .thumb img {
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
-}
-
-.tour-single-item .thumb .price {
-  position: absolute;
-  left: 20px;
-  top: 20px;
-}
-
-.tour-single-item .thumb .price span {
-  font-size: 16px;
-  color: #1f272b;
-  font-weight: 600;
-  background-color: rgba(250,250,250,0.9);
-  padding: 7px 12px;
-  border-radius: 10px;
 }
 
 .tour-single-item .down-content {
