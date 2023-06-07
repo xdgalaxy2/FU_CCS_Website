@@ -1734,7 +1734,7 @@ Tour body
   }
   .tour-body-bg-text2 {
     left: 0px;
-    color: rgb(0, 0, 0);
+    color: 999;
     right: 0px;
     bottom: -1px;
     margin: auto;
